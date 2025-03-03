@@ -34,6 +34,19 @@ Here are some of my favorite projects:
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 
+### Operating Systems
+
+![Red Hat](https://img.shields.io/badge/Red_Hat-%23EE0000.svg?style=flat&logo=redhat&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=debian&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-%2333B5E5.svg?style=flat&logo=linuxmint&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-%23E21C1C.svg?style=flat&logo=proxmox&logoColor=white)
+
+### Code Editors
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
+
+
+
 ## 📫 How to reach me
 
 - [Email](mailto:contact@marco-lenschau.de)
