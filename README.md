@@ -41,12 +41,6 @@ Here are some of my favorite projects:
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-%2333B5E5.svg?style=flat&logo=linuxmint&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-%23E21C1C.svg?style=flat&logo=proxmox&logoColor=white)
 
-### Code Editors
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
-
-
-
 ## 📫 How to reach me
 
 - [Email](mailto:contact@marco-lenschau.de)
