@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm SnowCoder404 👋
 
-<!--
-**SnowCoder404/SnowCoder404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Marco, and I'm 26 years old. I work as a frontend developer and have a great passion for Linux. I'm proficient in Bash and Python. My journey in software development started with a curiosity for how things work and a desire to build solutions that make life easier. Over the years, I've honed my skills in various programming languages and frameworks, and I enjoy working on both personal and professional projects. I believe in continuous learning and staying updated with the latest technologies.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my favorite projects:
+
+- [Pokedex](https://github.com/SnowCoder404/pokedex): A web application to browse and search for Pokémon.
+- [Join](https://github.com/SnowCoder404/join): A project management tool built with modern web technologies.
+- [El Pollo Loco](https://github.com/SnowCoder404/el-pollo-loco): A fun and interactive game developed using JavaScript and HTML5 Canvas.
+
+## 🛠 Skills
+
+### Markup and Styles
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
+
+### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+### Frameworks and Libraries
+
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+
+### Tools and Platforms
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
+
+## 📫 How to reach me
+
+- [Email](mailto:contact@marco-lenschau.de)
+- [LinkedIn](https://www.linkedin.com/in/marco-lenschau-271214317/)
+- [TryHackMe](https://tryhackme.com/p/SnowCoder404)
