@@ -1,5 +1,7 @@
 # Hi there, I'm SnowCoder404 👋
 
+Hi, my name is Marco, and I'm 26 years old. I work as a frontend developer and have a great passion for Linux. I'm proficient in Bash and Python. My journey in software development started with a curiosity for how things work and a desire to build solutions that make life easier. Over the years, I've honed my skills in various programming languages and frameworks, and I enjoy working on both personal and professional projects. I believe in continuous learning and staying updated with the latest technologies.
+
 ## 🚀 Projects
 
 Here are some of my favorite projects:
