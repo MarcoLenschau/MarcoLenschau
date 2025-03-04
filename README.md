@@ -33,13 +33,17 @@ Here are some of my favorite projects:
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-%2319BE5A.svg?style=flat&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 
 ### Operating Systems
 
 ![Red Hat](https://img.shields.io/badge/Red_Hat-%23EE0000.svg?style=flat&logo=redhat&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%232EAF75.svg?style=flat&logo=alpinelinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=debian&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-%2333B5E5.svg?style=flat&logo=linuxmint&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-%23E21C1C.svg?style=flat&logo=proxmox&logoColor=white)
+
 
 ## 📫 How to reach me
 
