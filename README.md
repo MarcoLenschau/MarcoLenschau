@@ -47,5 +47,5 @@ Here are some of my favorite projects:
 ## 📫 How to reach me
 
 - [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:contact@marco-lenschau.de)
-- [LinkedIn](https://www.linkedin.com/in/marco-lenschau-271214317/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-lenschau-271214317)
 - [![TryHackMe](https://img.shields.io/badge/TryHackMe-%2300B14F.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SnowCoder404)
