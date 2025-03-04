@@ -40,6 +40,9 @@ Here are some of my favorite projects:
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-%2333B5E5.svg?style=flat&logo=linuxmint&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-%23E21C1C.svg?style=flat&logo=proxmox&logoColor=white)
 
+## Networking
+
+![WireGuard](https://img.shields.io/badge/WireGuard-%2328A1F7.svg?style=flat&logo=wireguard&logoColor=white)
 
 ## 📫 How to reach me
 
