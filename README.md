@@ -6,7 +6,7 @@ Hi, my name is Marco, and I'm 26 years old. I work as a frontend developer and h
 
 Here are some of my favorite projects:
 
-- [DaBubble](https://github.com/SnowCoder404/DaBubble): Dabubble is a modern Slack clone.
+- [DaBubble](https://github.com/SnowCoder404/DaBubble): A modern Slack clone.
 - [El Pollo Loco](https://github.com/SnowCoder404/el-pollo-loco): A fun and interactive game developed using JavaScript and HTML5 Canvas.
 - [Join](https://github.com/SnowCoder404/join): A project management tool built with modern web technologies.
 - [Simple-CRM](https://github.com/SnowCoder404/Simple-CRM): A sleek, self-built CRM for managing contacts, tasks, and sales pipelines, perfect for small teams and businesses. 
