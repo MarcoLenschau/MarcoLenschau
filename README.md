@@ -1,15 +1,6 @@
-# Hi there, I'm SnowCoder404 👋
+# Hi there, I'm Marco Lenschau 👋
 
 Hi, my name is Marco, and I'm 26 years old. I work as a frontend developer and have a great passion for Linux. I'm proficient in Bash and Python. My journey in software development started with a curiosity for how things work and a desire to build solutions that make life easier. Over the years, I've honed my skills in various programming languages and frameworks, and I enjoy working on both personal and professional projects. I believe in continuous learning and staying updated with the latest technologies.
-
-## 🚀 Projects
-
-Here are some of my favorite projects:
-
-- [DaBubble](https://github.com/SnowCoder404/DaBubble): A modern Slack clone.
-- [El Pollo Loco](https://github.com/SnowCoder404/el-pollo-loco): A fun and interactive game developed using JavaScript and HTML5 Canvas.
-- [Join](https://github.com/SnowCoder404/join): A project management tool built with modern web technologies.
-- [Simple-CRM](https://github.com/SnowCoder404/Simple-CRM): A sleek, self-built CRM for managing contacts, tasks, and sales pipelines, perfect for small teams and businesses. 
 
 ## 🛠 Skills
 
