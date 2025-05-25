@@ -5,6 +5,7 @@ Hi, my name is Marco, and I'm 26 years old. I work as a frontend developer and h
 ## 🛠 Skills
 
 ### Frameworks & Languages
+
 <div>
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"/>
   <img width="3"/>
@@ -13,6 +14,10 @@ Hi, my name is Marco, and I'm 26 years old. I work as a frontend developer and h
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
+  <img width="3"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"/>
 </div>
@@ -24,17 +29,21 @@ Hi, my name is Marco, and I'm 26 years old. I work as a frontend developer and h
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
-<img width="3"/>
+  <img width="3"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"/>
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"/>
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/marco-lenschau-271214317/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marco-lenschau-271214317/)
 <img width="3"/>
 [![Mail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:contact@marco-lenschau.de)
 <div style="display: flex;>
