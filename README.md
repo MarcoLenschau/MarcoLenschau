@@ -43,14 +43,9 @@ Here are some of my favorite projects:
 
 ## 📫 How to reach me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/marco-lenschau-271214317/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto: contact@marco-lenschau.de" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
-´</div>
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/marco-lenschau-271214317/)
+[![Mail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:contact@marco-lenschau.de)
+
 <img width="12"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SnowCoder404&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 <img src="https://github-readme-stats.vercel.app/api?username=SnowCoder404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
