@@ -44,6 +44,7 @@ Here are some of my favorite projects:
 ## 📫 How to reach me
 
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/marco-lenschau-271214317/)
+<img width="3"/>
 [![Mail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:contact@marco-lenschau.de)
 
 <img width="12"/>
