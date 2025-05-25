@@ -54,4 +54,5 @@ Here are some of my favorite projects:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
 </div>
+<img width="12"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SnowCoder404&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
