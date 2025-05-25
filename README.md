@@ -2,9 +2,7 @@
 
 Hi, my name is Marco, and I'm 26 years old. I work as a frontend developer and have a great passion for Linux. I'm proficient in Bash and Python. My journey in software development started with a curiosity for how things work and a desire to build solutions that make life easier. Over the years, I've honed my skills in various programming languages and frameworks, and I enjoy working on both personal and professional projects. I believe in continuous learning and staying updated with the latest technologies.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SnowCoder404&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SnowCoder404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SnowCoder404&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 ## 🚀 Projects
 
 Here are some of my favorite projects:
