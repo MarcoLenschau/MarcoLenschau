@@ -36,8 +36,6 @@ Hi, I'm 26 years old. I work as a frontend developer and have a great passion fo
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"/>
   <img width="3"/>
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
-  <img width="3"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"/>
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
@@ -46,9 +44,11 @@ Hi, I'm 26 years old. I work as a frontend developer and have a great passion fo
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
   <img width="3"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"/>
-  <img width="3"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
+  <img width="3"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"/>
+  <img width="3"/>  
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
 </div>
 
 ## 📫 How to reach me
