@@ -34,6 +34,8 @@ Hi, I'm 26 years old. I work as a frontend developer and have a great passion fo
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
   <img width="3"/>
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"/>
+  <img width="3"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"/>
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"/>
