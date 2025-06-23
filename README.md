@@ -1,7 +1,5 @@
 # Hi there, I'm Marco Lenschau 👋
 
-Hi, I'm 26 years old. I work as a frontend developer and have a great passion for Linux.
-
 ## 🛠 Skills
 
 ### Frameworks & Languages
