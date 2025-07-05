@@ -56,7 +56,7 @@
 [![Mail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:contact@marco-lenschau.de)
 <div style="display: flex;>
   <img width="12"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SnowCoder404&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoLenschau&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
   <img width="64"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SnowCoder404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoLenschau&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
 </div>
