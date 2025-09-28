@@ -50,11 +50,12 @@
 </div>
 
 ## 📫 How to reach me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marco-lenschau-271214317/)
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat)](https://www.linkedin.com/in/marco-lenschau-271214317/)
 <img width="3"/>
 [![Mail](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat)](mailto:contact@marco-lenschau.de)
 <img width="3"/>
-[![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat)(https://tryhackme.com/p/MarcoLenschau)
+[![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat)](https://tryhackme.com/p/MarcoLenschau)
 <img width="3"/>
 <div style="display: flex;>
   <img width="12"/>
