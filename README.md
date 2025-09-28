@@ -50,12 +50,24 @@
 </div>
 
 ## 📫 How to reach me
-
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat)](https://www.linkedin.com/in/marco-lenschau-271214317/)
-<img width="3"/>
-[![Mail](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat)](mailto:contact@marco-lenschau.de)
-<img width="3"/>
-[![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat)](https://tryhackme.com/p/MarcoLenschau)
+<a href="https://www.linkedin.com/in/marco-lenschau-271214317/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat"
+       alt="LinkedIn"
+       height="40"
+       style="vertical-align:middle; margin-right:6px;">
+</a>
+<a href="mailto:contact@marco-lenschau.de">
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat"
+       alt="Email"
+       height="40"
+       style="vertical-align:middle; margin-right:6px;">
+</a>
+<a href="https://tryhackme.com/p/MarcoLenschau">
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat"
+       alt="TryHackMe"
+       height="40"
+       style="vertical-align:middle;">
+</a>
 <img width="3"/>
 <div style="display: flex;>
   <img width="12"/>
