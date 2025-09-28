@@ -47,8 +47,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"/>
-  <img width="3"/>
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
 </div>
 
 ## 📫 How to reach me
