@@ -54,6 +54,10 @@
 <img width="3"/>
 [![Mail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:contact@marco-lenschau.de)
 
+[![Gitlab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/MarcoLenschau)
+
+
+
 <div style="display: flex;>
   <img width="12"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoLenschau&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
