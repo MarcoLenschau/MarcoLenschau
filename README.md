@@ -52,9 +52,10 @@
 ## 📫 How to reach me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marco-lenschau-271214317/)
 <img width="3"/>
-[![Mail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:contact@marco-lenschau.de)
-<img width="3"/>
 [![Gitlab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/MarcoLenschau)
+<img width="3"/>
+[![Mail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:contact@marco-lenschau.de)
+
 
 <div style="display: flex;>
   <img width="12"/>
