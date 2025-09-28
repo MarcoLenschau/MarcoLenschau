@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"/>
   <img width="3"/>
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"/>
+  <img width="3"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
 </div>
 
 ### Tools and Platforms
